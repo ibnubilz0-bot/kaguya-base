@@ -1,9 +1,9 @@
 // Konfigurasi dasar bot. Simpan file ini, restart bot untuk menerapkan.
 
-global.owners = ['']      // nomor owner (tanpa +, tanpa spasi)
-global.ownername = 'YannRzy'
-global.nomorbot = ''      // nomor bot (dipakai untuk pairing code)
-global.namebot = 'kaguya base'
+global.owners = ['6288294395623']      // nomor owner (tanpa +, tanpa spasi)
+global.ownername = 'Bilz x Yuliana'
+global.nomorbot = '6288294395623'      // nomor bot (dipakai untuk pairing code)
+global.namebot = 'BETA BOT BILZ'
 
 global.thumb = { menu: 'https://cdn.zass.in/yERRcGpCb2.jpg' }              // URL gambar menu (kosong = teks saja)
 
